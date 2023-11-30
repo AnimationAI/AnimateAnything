@@ -1,4 +1,4 @@
-# Fine-Grained Open Domain Image Animation with Motion Guidance
+# AnimateAnything: Fine-Grained Open Domain Image Animation with Motion Guidance
 
 ## 🎬 &nbsp; Animate Image with Text  &nbsp;🎬
 
@@ -220,4 +220,16 @@
      <img src="docs/img/image_animation_examples63.gif"   width =155 height=150/>
      <br>
      A statue is laughing.
+
+
+```
+@misc{dai2023finegrained,
+        title={Fine-Grained Open Domain Image Animation with Motion Guidance}, 
+        author={Zuozhuo Dai and Zhenghao Zhang and Yao Yao and Bingxue Qiu and Siyu Zhu and Long Qin and Weizhi Wang},
+        year={2023},
+        eprint={2311.12886},
+        archivePrefix={arXiv},
+        primaryClass={cs.CV}
+}
+```
 
