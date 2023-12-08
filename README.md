@@ -1,5 +1,5 @@
 # AnimateAnything: Fine-Grained Open Domain Image Animation with Motion Guidance
-
+The souce code is release in https://github.com/alibaba/animate-anything
 ## 🎬 &nbsp; Animate Image with Text  &nbsp;🎬
 
 <center class = "half">
